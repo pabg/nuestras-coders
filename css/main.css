@@ -1,0 +1,49 @@
+.coder1{
+	background-image: url("../img/profile-1.png");
+}
+.coder2{
+	background-image: url("../img/profile-2.png");
+	left: 250px;
+}
+.coder3{
+	background-image: url("../img/profile-3.png");
+	left: 500px;
+}
+.coder4{
+    background-image: url("../img/profile-4.png");
+	top: 300px;
+}
+.coder5{
+    background-image: url("../img/profile-5.png");
+	top: 300px;
+	left: 250px;
+}
+.coder6{
+    background-image: url("../img/profile-6.png");
+	top: 300px;
+	left: 500px;
+}
+hr{
+	width: 50px;
+	margin left:0;
+}
+p{
+	color: white;
+	position: absolute;
+	font-size: 15px;
+	bottom:0;
+	right: 0;
+}
+.img{
+	width:200px ;
+	height:200px;
+	position: absolute;
+}
+.contenedor{
+	position: relative;
+	margin: auto;
+	width: 800px;
+}
+h3{
+  text-decoration: underline;
+}
